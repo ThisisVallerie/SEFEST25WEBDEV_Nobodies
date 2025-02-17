@@ -19,4 +19,9 @@ Disarankan menggunakan Google Chrome dengan resolusi 1920 x 1080
 
 ---
 
-## FILE PENDUKUNG LAINNYA:  
+## FILE PENDUKUNG LAINNYA: 
+UI and Branding:
+https://www.figma.com/design/T1Htyx54ejm8IQUIxSka3i/RUTE--Sefest-25?node-id=0-1&t=QpeTEhQLc49DzMKp-1
+
+Canva PPT:
+https://www.canva.com/design/DAGfXJ9Sg60/cBjKO3RFCu_Q-AuFcUKGCA/edit?utm_content=DAGfXJ9Sg60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
